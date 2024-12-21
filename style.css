@@ -1,0 +1,37 @@
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  width: 100%;
+  bottom: 50px;
+  left: 0px;
+  background-color: rgba(80, 80, 80, 0.5);
+  text-align: center;
+  font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.button {
+  cursor: pointer;
+  font-size: 45pt !important;
+  font-weight: bold !important;
+  color: rgb(230, 230, 230);
+}
+
+.button:hover, #label {
+  color: white;
+}
+
+.button, #label {
+  margin: 15px;
+}
+
+.esri-view-surface--inset-outline:focus::after {
+    outline: none !important;
+}
