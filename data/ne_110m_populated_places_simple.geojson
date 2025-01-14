@@ -1,0 +1,47 @@
+{"type":"FeatureCollection","features":[
+{
+    "type":"Feature",
+    "properties":{
+        "labelrank":3,
+        "name":"Naomie Melanie Harris OBE",
+        "note":null,
+        "latitude":51.4999947297,
+        "longitude":-0.11672184386,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Naomie_Harris_2014.jpg/440px-Naomie_Harris_2014.jpg"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[-0.12749607874044955,51.507612906219435]
+    }
+},
+{
+    "type":"Feature",
+    "properties":{
+        "labelrank":9,
+        "name":"Catherine Bishop",
+        "note":null,
+        "latitude":52.4999947297,
+        "longitude":-0.12672184386,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cath_Bishop_%28rower%29.jpg/440px-Cath_Bishop_%28rower%29.jpg"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[-0.7199735940816652,51.523213202482225]
+    }
+},
+{
+    "type":"Feature",
+    "properties":{
+        "labelrank":1,
+        "name":"Elizabeth Napier \"Bessie\" Dewar",
+        "note":null,
+        "latitude":40.749979064,
+        "longitude":-73.9800169288,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bessie_Dewar_53501588163_o_%281%29.jpg/440px-Bessie_Dewar_53501588163_o_%281%29.jpg"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[-71.95280803043165,42.35038981089372]
+    }
+}
+]}
