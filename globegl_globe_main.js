@@ -1,4 +1,4 @@
-// import './globe.css'
+import './globe.css'
 import Globe from "./globegl.js";
 
 const myGlobe = Globe();
@@ -55,9 +55,31 @@ function stopRotation() {
         myGlobe.labelLabel(d => `
             <div class="card">
                 <img src=${d.properties.imageUrl} alt=${d.properties.name} style="width:20%">
+                <div class="container">
+                    <h2>${d.properties.name}</h2>
+                    <p>${d.properties.facts}</p>
+                </div>
             </div>
         `);
     } else {
         myGlobe.labelLabel();
     }
 }
+
+// const button = document.querySelector("#button");
+// const icon = document.querySelector("#button > i");
+// const audio = document.querySelector("audio");
+
+// button.addEventListener("click", () => {
+//     if (audio.paused) {
+//         audio.play();
+//         audio.volume = 0.2;
+//         icon.classList.remove('fa-volume-up');
+//         icon.classList.add('fa-volume-mute');
+//     } else {
+//         audio.pause();
+//         icon.classList.remove('fa-volume-mute');
+//         icon.classList.add('fa-volume-up');
+//     }
+//     button.classList.add('fade');
+// });
