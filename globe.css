@@ -13,13 +13,13 @@ button {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 100px;
+    width: 500px;
     padding: 15px;
     border: none;
     border-radius: 2px;
     outline: none;
     background: rgba(115, 67, 167, 0.8);
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.4);
     opacity: 0.8;
     cursor: pointer;
     transition: all 0.4s ease-out;

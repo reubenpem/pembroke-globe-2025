@@ -1,4 +1,4 @@
-import Globe from "./globegl.js";
+import Globe from "../globegl.js";
 
 const myGlobe = Globe();
 
