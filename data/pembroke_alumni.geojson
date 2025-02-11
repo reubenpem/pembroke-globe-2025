@@ -1,53 +1,231 @@
-{"type":"FeatureCollection","features":[
 {
-    "type":"Feature",
-    "properties":{
-        "labelrank":3,
-        "shortname":"Naomie",
-        "name":"Naomie Melanie Harris OBE",
-        "note":null,
-        "facts":"Naomie Melanie Harris OBE is an English actress. She started her career when she was a child, appearing in the television series Simon and the Witch in 1987. She portrayed Selena in the zombie film 28 Days Later (2002), the witch Tia Dalma in the second and third Pirates of the Caribbean films, Winnie Mandela in Mandela: Long Walk to Freedom (2013), and Frances Barrison / Shriek in Sony's Spider-Man Universe film Venom: Let There Be Carnage (2021). She portrayed Eve Moneypenny in the James Bond films Skyfall (2012), Spectre (2015), and No Time to Die (2021).\n\nDegree from Pembroke: Social and Political Sciences",
-        "latitude":51.4999947297,
-        "longitude":-0.11672184386,
-        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Naomie_Harris_2014.jpg/440px-Naomie_Harris_2014.jpg"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deborah White",
+        "matriculation_year": 2020,
+        "city_region": "",
+        "country": "Australia",
+        "job": "Government Solicitor, wrongful convictions and deaths in custody",
+        "organisation": "Department of Justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.7751, -25.2744]
+      }
     },
-    "geometry":{
-        "type":"Point",
-        "coordinates":[-0.12749607874044955,51.507612906219435]
-    }
-},
-{
-    "type":"Feature",
-    "properties":{
-        "labelrank":9,
-        "shortname":"Catherine",
-        "name":"Catherine Bishop",
-        "note":null,
-        "facts":"Catherine Bishop is a former British rower. In partnership with Katherine Grainger she was World Champion in the coxless pair in 2003, and in 2004 they won a silver medal at the Olympic Games.[1] Following a career as a diplomat she is now a leadership speaker, writer and consultant.\n\nDegree from Pembroke: BA in modern languages",
-        "latitude":52.4999947297,
-        "longitude":-0.12672184386,
-        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cath_Bishop_%28rower%29.jpg/440px-Cath_Bishop_%28rower%29.jpg"
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elizabeth Gurian",
+        "matriculation_year": 2006,
+        "city_region": "Northfield, VT",
+        "country": "USA",
+        "job": "Director and Professor, School of Criminology and Criminal Justice",
+        "organisation": "Norwich University (VT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.6569, 44.1512]
+      }
     },
-    "geometry":{
-        "type":"Point",
-        "coordinates":[-0.7199735940816652,51.523213202482225]
-    }
-},
-{
-    "type":"Feature",
-    "properties":{
-        "labelrank":1,
-        "shortname":"Elizabeth",
-        "name":"Elizabeth Napier \"Bessie\" Dewar",
-        "note":null,
-        "facts":"Elizabeth Napier \"Bessie\" Dewar is an American lawyer who has served as an associate justice of the Massachusetts Supreme Judicial Court since 2024. She previously served as the state solicitor of Massachusetts from 2016 to 2024. Prior to serving as the state solicitor, she had served as the assistant state solicitor under former state solicitor Peter Sacks.\n\nDegree from Pembroke: Master of Philosophy",
-        "latitude":40.749979064,
-        "longitude":-73.9800169288,
-        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bessie_Dewar_53501588163_o_%281%29.jpg/440px-Bessie_Dewar_53501588163_o_%281%29.jpg"
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marion Messmer",
+        "matriculation_year": 2013,
+        "city_region": "",
+        "country": "United Kingdom",
+        "job": "International Security Programme, arms control",
+        "organisation": "Chatham House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1278, 51.5074]
+      }
     },
-    "geometry":{
-        "type":"Point",
-        "coordinates":[-71.95280803043165,42.35038981089372]
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christine Blume",
+        "matriculation_year": 2010,
+        "city_region": "Basel",
+        "country": "Switzerland",
+        "job": "Researcher, human sleep",
+        "organisation": "University of Basel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5886, 47.5596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blanka Collis",
+        "matriculation_year": 2001,
+        "city_region": "Prague",
+        "country": "Czechia",
+        "job": "Researcher, membrane protein pathways",
+        "organisation": "Institute of Organic Chemistry and Biochemistry (IOCB Prague)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4378, 50.0755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margaret Shrimpton Masson",
+        "matriculation_year": 1987,
+        "city_region": "",
+        "country": "Mexico",
+        "job": "Professor in Latin American Literature, Researcher, Caribbean Studies",
+        "organisation": "Autonomous University of Yucatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.2182, 20.9674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Léonie de Jonge",
+        "matriculation_year": 2014,
+        "city_region": "Tübingen",
+        "country": "Germany",
+        "job": "Political Scientist",
+        "organisation": "Institute for Research on Far Right Extremism (IRex), University of Tübingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0522, 48.5216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rachel Sutton-Marlin",
+        "matriculation_year": 1985,
+        "city_region": "Lyon",
+        "country": "France",
+        "job": "Translator and Interpreter (French/English)",
+        "organisation": "Lyon Court of Appeal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8357, 45.764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferakh Baig Lakhany",
+        "matriculation_year": 1994,
+        "city_region": "Dubai",
+        "country": "United Arab Emirates",
+        "job": "Co-Founder",
+        "organisation": "arabee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.2708, 25.2048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarah Tiffin",
+        "matriculation_year": 1985,
+        "city_region": "Jakarta",
+        "country": "Indonesia",
+        "job": "UK Ambassador to the Association of South East Asian Nations",
+        "organisation": "UK Mission to the Association of South East Asian Nations (Foreign Office)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8456, -6.2088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michelle Rigozzi",
+        "matriculation_year": 2007,
+        "city_region": "London",
+        "country": "United Kingdom",
+        "job": "Senior Delivery Advisor",
+        "organisation": "No10 Delivery Unit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1278, 51.5074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexa Segal",
+        "matriculation_year": 2016,
+        "city_region": "Paris",
+        "country": "France",
+        "job": "Health Policy Researcher and Advisor in Public Health",
+        "organisation": "OECD, Health Division"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbara Bentum-Williams Dotse",
+        "matriculation_year": 1986,
+        "city_region": "Nairobi",
+        "country": "Kenya",
+        "job": "Principal Risk Management Advisor",
+        "organisation": "United Nations High Comissioner for Refugees (UNHCR)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2921, 36.8219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emily Rutter Hebbron",
+        "matriculation_year": 2004,
+        "city_region": "Portland",
+        "country": "USA",
+        "job": "Policy and Outreach Advisor",
+        "organisation": "Oregon Community Foundation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.5152, -122.6784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sovaida Ma'ani Ewing",
+        "matriculation_year": 1985,
+        "city_region": "Washington DC",
+        "country": "USA",
+        "job": "Founding Director",
+        "organisation": "Center for Peace and Global Governance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0369, 38.9072]
+      }
     }
+  ]
 }
-]}
+
